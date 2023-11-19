@@ -1,0 +1,98 @@
+#title {
+    margin: 30px auto;
+    width: 65%;
+}
+
+.section {
+    margin: 20px auto;
+    border: 2px solid black;
+    width: 65%;
+}
+
+.section-title {
+    margin: 15px 15px;
+    text-decoration: underline;
+}
+
+.fonts-container {
+    margin: 5px 15px;
+}
+
+.texts-container {
+    margin: 25px 25px;
+    font-family: 'Noto Sans';
+}
+
+.color-box {
+    display: inline-block;
+    min-height: 100px;
+    text-align: center;
+    margin: 15px 10px;
+    width: 30%;
+}
+
+.fonts {
+    display: inline-block;
+    min-height: 50px;
+    margin: auto;
+    margin-bottom: 25px;
+    width: 32%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.fonts h4 {
+    text-align: center;
+}
+
+.fonts.noto-sans {
+    font-family: 'Noto Sans';
+}
+
+.fonts.merriweather {
+    font-family: 'Merriweather';
+}
+
+.fonts.lora {
+    font-family: 'Lora';
+}
+
+
+
+.blue-violet {
+    background-color: blueviolet;
+    color: white;
+}
+
+.blanched-almond {
+    background-color: blanchedalmond;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+.dark-red {
+    background-color: darkred;
+    color: white;
+}
+
+.dark-sea-green {
+    background-color: darkseagreen;
+}
+
+.midnight-blue {
+    background-color: midnightblue;
+    color: white;
+}
+
+.indigo {
+    background-color: indigo;
+    color: white;
+}
